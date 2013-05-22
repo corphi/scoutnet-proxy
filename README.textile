@@ -1,0 +1,3 @@
+h1. ScoutNet-Proxy
+
+Dieser Code tunnelt die Termine des BdP-Landesverbands Bremen aus dem ScoutNet-Kalender in die Webseite. Durch leichte Modifikation lässt er sich dazu überreden, die Termine anders anzuzeigen oder andere Termine auszuwählen.
